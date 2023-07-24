@@ -19,8 +19,8 @@ sudo ./add_wg_client.sh
 ```
 
 This will:
-    - generate `client-wg0.conf` that can be used to configure a client machine.
-    
-    - update the `/etc/wireguard/wg0.conf` of the wg server.
+
+    * generate `client-wg0.conf` that can be used to configure a client machine.
+    * update the `/etc/wireguard/wg0.conf` of the wg server.
     
 
