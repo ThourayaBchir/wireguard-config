@@ -1,6 +1,6 @@
 ## Description
 
-Simple scripts to configure a wireguard vpn server (Ubuntu 22.04) and to generate the config file of the clients.
+Scripts to configure a wireguard vpn server (Ubuntu 22.04) and to generate the config for the clients.
 
 
 1- Copy ad run the first script in the server
